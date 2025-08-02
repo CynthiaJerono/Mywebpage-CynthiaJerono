@@ -17,3 +17,25 @@ nav {
     align-items: center;
 }
 
+.nav-links a:hover {
+    color: #0066cc;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 6rem 2rem;
+    background: #f8f9fa;
+}
+
+.hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+img {
+    width: 200px;
+    height: 250px;
+    margin-bottom: 1rem;
+    align-items: center;
+}
